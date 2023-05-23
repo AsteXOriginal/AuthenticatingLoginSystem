@@ -1,2 +1,6 @@
 <h1>Authenticating Login System</h1>
-<p>This is a command-line program that simulates a login system. The user is prompted to enter a password, and access is only granted if the password entered matches the predetermined password in the program. If the user enters the wrong password, the program displays an error message and asks the user to try again. After three failed attempts, the program displays a message indicating that the user may be attempting unauthorized access and terminates.</p>
+<p>Create a login simulation program that prompts for a password and only displays the welcome message if the entered password matches a pre-defined one in the program. In case of an error, display an error message and request to re-enter the password. After 3 failed attempts, the program should display a message about an unauthorized access attempt and terminate.
+
+Task of increased complexity:
+a) The program should include a user database (login and password), and it should require entering both the login and the corresponding password.
+b) In case of an error in the login or password, display the respective error message.</p>
