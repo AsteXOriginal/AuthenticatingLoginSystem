@@ -4,3 +4,6 @@
 Task of increased complexity:
 a) The program should include a user database (login and password), and it should require entering both the login and the corresponding password.
 b) In case of an error in the login or password, display the respective error message.</p>
+
+## Contact
+GitHub: @AsteXOriginal
